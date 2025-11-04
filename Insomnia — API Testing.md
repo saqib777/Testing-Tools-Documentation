@@ -9,12 +9,12 @@ Official site: [https://insomnia.rest](https://insomnia.rest)
 ---
 
 ## Why use Insomnia?
-- 🧭 **Simple interface** – minimalist design with fewer menus and distractions.  
-- ⚙️ **Supports REST, GraphQL, gRPC, and WebSocket testing.**  
-- 🧩 **Environment variables & workspaces** – easy to manage multiple environments.  
-- 🔐 **Authentication helpers** – supports Basic, Bearer, OAuth 2.0, API Key, etc.  
-- 💻 **Cross-platform** – works on Windows, macOS, and Linux.  
-- 🔄 **Import/export compatibility** – you can import Postman collections or OpenAPI specs.
+-  **Simple interface** – minimalist design with fewer menus and distractions.  
+-  **Supports REST, GraphQL, gRPC, and WebSocket testing.**  
+-  **Environment variables & workspaces** – easy to manage multiple environments.  
+-  **Authentication helpers** – supports Basic, Bearer, OAuth 2.0, API Key, etc.  
+-  **Cross-platform** – works on Windows, macOS, and Linux.  
+-  **Import/export compatibility** – you can import Postman collections or OpenAPI specs.
 
 ---
 
@@ -33,7 +33,7 @@ Install it on your OS like a normal desktop app.
 2. Enter the URL: `https://jsonplaceholder.typicode.com/posts/1`  
 3. Hit **Send**.  
 4. You’ll see the response with headers, status, and body.  
-   ✅ **Tip:** Try changing method to POST or PUT to experiment.
+   **Tip:** Try changing method to POST or PUT to experiment.
 
 ### Step 4: Add Environment Variables
 - Click the **Manage Environments** icon (top-right gear).  
@@ -54,7 +54,7 @@ const response = insomnia.response.json();
 expect(response.id).to.equal(1);
 expect(insomnia.response.status).to.equal(200);
 ```
-💡 These are powered by the Chai assertion library and run after the request.
+ These are powered by the Chai assertion library and run after the request.
 
 ---
 
@@ -99,12 +99,12 @@ You can script the “Tests” tab for each request to assert status codes and s
 ---
 
 ## Best Practices
-- ✅ Use **environments** for different setups (Dev, QA, Prod).  
-- ✅ Use the **Tests tab** for lightweight validation (status, keys, schema).  
-- ✅ Group requests logically in **folders or collections**.  
-- ✅ Store secrets safely — avoid committing tokens to Git.  
-- ✅ Export your workspace or sync to the cloud for backup.  
-- ✅ Combine with Git integration (Insomnia Sync supports version control).
+-  Use **environments** for different setups (Dev, QA, Prod).  
+-  Use the **Tests tab** for lightweight validation (status, keys, schema).  
+-  Group requests logically in **folders or collections**.  
+-  Store secrets safely — avoid committing tokens to Git.  
+-  Export your workspace or sync to the cloud for backup.  
+-  Combine with Git integration (Insomnia Sync supports version control).
 
 ---
 
