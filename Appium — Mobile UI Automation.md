@@ -133,7 +133,7 @@ public class BasicTest {
 }
 ```
 
-## Resources & Learning Links  
+## Resources & Learning Links: 
 - Official Appium Docs: [appium.io](https://appium.io/docs/en/2.1/) :contentReference[oaicite:20]{index=20}  
 - Python Client Docs: [Appium Python Client](https://appium.github.io/python-client-sphinx/) :contentReference[oaicite:21]{index=21}  
 - GitHub Repo & Drivers: [github.com/appium/appium](https://github.com/appium/appium) :contentReference[oaicite:22]{index=22}  
