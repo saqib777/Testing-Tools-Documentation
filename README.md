@@ -100,11 +100,6 @@ Make sure to follow the existing documentation format for consistency.
 
 ---
 
-##  License
-This project is licensed under the **MIT License**: see the [LICENSE](LICENSE) file for details.
-
----
-
 ##  Credits
 Maintained by **[saqib777](https://github.com/saqib777)**  
 Special thanks to the open-source testing community and tool developers for their continuous innovation.
