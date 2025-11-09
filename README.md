@@ -107,7 +107,7 @@ Special thanks to the open-source testing community and tool developers for thei
 ---
 
 ###  Support
-If you found this project useful, consider giving it a **star** ⭐ on GitHub — it helps others discover it too!
+If you found this project useful, consider giving it a **star** ⭐ on GitHub - it helps others discover it too!
 
 ---
 
